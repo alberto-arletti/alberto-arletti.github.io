@@ -3,11 +3,11 @@
   <channel>
     <title>Alberto personal page</title>
     <description>My personal page</description>
-    <link>/</link>
-    <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 11 Feb 2022 10:25:13 +0100</pubDate>
-    <lastBuildDate>Fri, 11 Feb 2022 10:25:13 +0100</lastBuildDate>
-    <generator>Jekyll v4.2.1</generator>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Mon, 22 Aug 2022 22:46:17 +0200</pubDate>
+    <lastBuildDate>Mon, 22 Aug 2022 22:46:17 +0200</lastBuildDate>
+    <generator>Jekyll v4.2.2</generator>
     
       <item>
         <title>How to change your life, forever</title>
@@ -148,8 +148,8 @@ School is not the only and absolute judge of your future.&lt;/p&gt;
 &lt;p&gt;Aspire is just a metaphor, an inspiration, on what it means to exist across events, across days, across emotions, and carve one’s straight line in life.&lt;/p&gt;
 </description>
         <pubDate>Wed, 27 Oct 2021 20:56:00 +0200</pubDate>
-        <link>/articles/21/Aspire</link>
-        <guid isPermaLink="true">/articles/21/Aspire</guid>
+        <link>http://localhost:4000/articles/21/Aspire</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/21/Aspire</guid>
         
         
         <category>personal</category>
@@ -201,8 +201,8 @@ Take, for example, &lt;a href=&quot;https://www.linkedin.com/in/chiarabacilieri/
 &lt;p&gt;Sources: &lt;a href=&quot;https://www.enpap.it/DOC/Ebook_ENPAP_DemografiaRedditi.pdf&quot;&gt;2018 ENPAP report&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 20 Feb 2021 19:56:00 +0100</pubDate>
-        <link>/articles/21/Psychology_job</link>
-        <guid isPermaLink="true">/articles/21/Psychology_job</guid>
+        <link>http://localhost:4000/articles/21/Psychology_job</link>
+        <guid isPermaLink="true">http://localhost:4000/articles/21/Psychology_job</guid>
         
         
         <category>personal</category>
